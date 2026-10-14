@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p-01",
+    "nombre": "Molletes",
+    "precio": 30,
+    "categoria": "comida",
+    "disponible": true
+  },
+  {
+    "id": "p-02",
+    "nombre": "Jugo de naranja",
+    "precio": 18,
+    "categoria": "bebida",
+    "disponible": true
+  },
+  {
+    "id": "p-03",
+    "nombre": "Gelatina",
+    "precio": 12,
+    "categoria": "postre",
+    "disponible": false
+  },
+  {
+    "id": "4299df65-b860-4cc1-8c6e-f18c660d859d",
+    "disponible": true,
+    "nombre": "sincronizada1791940076752",
+    "precio": 32,
+    "categoria": "comida"
+  }
+]
